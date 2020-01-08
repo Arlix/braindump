@@ -4,7 +4,7 @@
 
 ### Initial scan:
 ```
-$ nmap -sC -sV -oA nmap/initial <TARGET_IP>
+$ nmap -sC -sV -oA nmap/initial <TARGET-IP>
 ```
 
 - -sC = standard scripts
@@ -13,10 +13,10 @@ $ nmap -sC -sV -oA nmap/initial <TARGET_IP>
 
 To scan all ports, add -p-, this usually takes a while so consider leaving it running in the background by using &
 ```
-$ nmap -sC -sV -oA -p- nmap/initial-all-ports <TARGET_IP> &
+$ nmap -sC -sV -oA -p- nmap/initial-all-ports <TARGET-IP> &
 ```
 
 ### Scanning for vulnerabilities using nse script engine
 ```
-$ nmap -script vuln -oA nmap/vulns <TARGET_IP>
+$ nmap -script vuln -oA nmap/vulns <TARGET-IP>
 ```
