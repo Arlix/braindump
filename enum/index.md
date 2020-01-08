@@ -1,9 +1,9 @@
 # enum
 
-## initial scans
+## 01-initial-scans
 
-## scanning web servers
+## 02-web-servers
 
-## fingerprinting web applications
+## 03-fingerprinting-web-applications
 
-## directory busting & fuzzing
+## 04-directory-fuzzing
