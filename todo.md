@@ -1,6 +1,6 @@
 # Boxes to solve
 
-## HTB
+## HTB [1/35]
 
 - [ ] Lame
 - [ ] Brainfuck
@@ -38,7 +38,7 @@
 - [ ] Devops
 - [ ] Hawk
 
-## Vulnhub
+## Vulnhub [0/17]
 
 - [ ] Kioptrix: Level 1
 - [ ] Kioptrix: Level 1.1
