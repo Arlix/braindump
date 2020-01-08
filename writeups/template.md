@@ -1,7 +1,7 @@
-#About
+# About
 
-##Information & tags
+## Information & tags
 
-#Summary
+# Summary
 
-#Walkthrough
+# Walkthrough
