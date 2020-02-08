@@ -2,7 +2,7 @@
 
 ## HTB [1/35]
 
-- [ ] Lame
+- [X] Lame
 - [ ] Brainfuck
 - [X] Shocker
 - [ ] Bashed
