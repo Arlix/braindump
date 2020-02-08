@@ -18,7 +18,7 @@
 - [ ] Poison
 - [ ] Sunday
 - [ ] Tartarsauce
-- [ ] Legacy
+- [X] Legacy
 - [ ] Blue
 - [ ] Devel
 - [ ] Optimum
