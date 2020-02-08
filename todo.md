@@ -20,7 +20,7 @@
 - [ ] Tartarsauce
 - [X] Legacy
 - [ ] Blue
-- [ ] Devel
+- [X] Devel
 - [ ] Optimum
 - [ ] Bastard
 - [ ] Granny
