@@ -7,7 +7,7 @@
 - [X] Shocker
 - [ ] Bashed
 - [ ] Nibbles
-- [ ] Beep
+- [X] Beep
 - [ ] Cronos
 - [ ] Nineveh
 - [ ] Sense
