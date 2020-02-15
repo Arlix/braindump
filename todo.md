@@ -5,12 +5,12 @@
 - [X] Lame
 - [ ] Brainfuck
 - [X] Shocker
-- [ ] Bashed
+- [X] Bashed
 - [ ] Nibbles
 - [X] Beep
 - [ ] Cronos
 - [ ] Nineveh
-- [ ] Sense
+- [X] Sense
 - [ ] Solidstate
 - [ ] Kotarak
 - [ ] Node
@@ -19,7 +19,7 @@
 - [ ] Sunday
 - [ ] Tartarsauce
 - [X] Legacy
-- [ ] Blue
+- [X] Blue
 - [X] Devel
 - [ ] Optimum
 - [ ] Bastard
